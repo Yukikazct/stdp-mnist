@@ -1,6 +1,8 @@
-# Office文档
+# Office文档（答辩PPT和项目报告除外）
 *.docx
 *.pptx
+!*答辩PPT.pptx
+!项目报告.docx
 *.doc
 *.ppt
 *.xlsx
