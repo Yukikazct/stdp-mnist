@@ -1,0 +1,23 @@
+# Office文档
+*.docx
+*.pptx
+*.doc
+*.ppt
+*.xlsx
+
+# PDF
+*.pdf
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# 大文件 — 权重历史快照 725MB 超过GitHub 100MB限制
+**/train_w_hist.npy
